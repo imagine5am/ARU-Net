@@ -1,5 +1,7 @@
 # ARU-Net: A Neural Pixel Labeler for Layout Analysis of Historical Documents
 
+Clone of [ARU-Net](https://github.com/TobiasGruening/ARU-Net). This code also contains the stage 2 of ARU-Net which is not in the original repository. I have not implemented the stage 2 code as it is given in the paper, I used the code from [P2PaLA](https://github.com/lquirosd/P2PaLA) for baseline detection to get PAGE-XML. The output XML files are available in out folder.
+
 ## Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
